@@ -183,3 +183,51 @@ main{
 
 
 }
+
+/* Previos nex code start */
+
+#privious-next-parent{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+#privious-next-parent h3 a{
+    background-color: #04aa6d;
+    padding: 10px 25px;
+    border-radius: 5px;
+    transition: 0.5s;
+
+
+
+}
+
+#privious-next-parent h3 a:hover{
+    background-color: #026944;
+}
+
+#privious-next-parent a{
+    text-decoration: none;
+    color: white;
+
+}
+
+#privious-next-parent div a{
+    margin: 0 10px;
+    background-color: antiquewhite;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #80808069;
+
+    
+
+}
+
+#privious-next-parent div a:first-child {
+    background-color:#026944;
+    color: white;
+}
